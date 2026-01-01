@@ -1,0 +1,25 @@
+#!/bin/sh
+# Dual-Layer Provenance: Automatic commit timestamping
+#
+# Copy this file to .git/hooks/post-commit and make executable:
+#   cp hooks/post-commit .git/hooks/post-commit
+#   chmod +x .git/hooks/post-commit
+
+COMMIT=$(git rev-parse HEAD)
+OTS_DIR=".ots_proofs"
+
+# Create proofs directory if needed
+mkdir -p "$OTS_DIR"
+
+# Write commit info to file
+echo "$COMMIT $(date -Iseconds)" > "$OTS_DIR/$COMMIT.txt"
+
+# Timestamp if OpenTimestamps is available
+if command -v ots &> /dev/null; then
+    ots stamp "$OTS_DIR/$COMMIT.txt" 2>/dev/null
+    if [ $? -eq 0 ]; then
+        echo "Timestamped commit: ${COMMIT:0:8}"
+    fi
+else
+    echo "Note: Install opentimestamps-client for automatic timestamping"
+fi

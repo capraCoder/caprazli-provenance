@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Caprazli Priority Provenance for Independent Researchers"
+message: "If you use this methodology, please cite it using this metadata."
+type: software
+authors:
+  - family-names: "Caprazli"
+    given-names: "Kafkas M."
+    orcid: "https://orcid.org/0000-0002-5744-8944"
+doi: "10.5281/zenodo.18115235"
+version: "1.0.0"
+date-released: "2026-01-01"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/CapraCoder/caprazli-provenance"
+keywords:
+  - provenance
+  - timestamping
+  - blockchain
+  - independent-research
+  - priority-claims
+  - opentimestamps
+abstract: >-
+  A dual-layer provenance system combining continuous blockchain
+  timestamping with formal DOI registration, designed for independent
+  researchers who lack institutional infrastructure for establishing
+  priority claims.
