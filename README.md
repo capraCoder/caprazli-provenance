@@ -1,5 +1,7 @@
 # Caprazli Priority Provenance for Independent Researchers
 
+[![PyPI version](https://img.shields.io/pypi/v/caprazli-provenance.svg)](https://pypi.org/project/caprazli-provenance/)
+[![PyPI downloads](https://img.shields.io/pypi/dm/caprazli-provenance.svg)](https://pypi.org/project/caprazli-provenance/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18115235.svg)](https://doi.org/10.5281/zenodo.18115235)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
