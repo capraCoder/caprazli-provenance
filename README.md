@@ -71,7 +71,32 @@ See [ARCHITECTURE.md](ARCHITECTURE.md) for the formal specification (T-003).
 
 ## Citation
 
-See [CITATION.cff](CITATION.cff) for machine-readable citation metadata.
+**APA 7th:**
+> Caprazli, K. M. (2026). *Caprazli Priority Provenance for Independent Researchers* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.18115235
+
+**Chicago (Author-Date):**
+> Caprazli, Kafkas M. 2026. "Caprazli Priority Provenance for Independent Researchers." Software, version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.18115235.
+
+**MLA 9th:**
+> Caprazli, Kafkas M. *Caprazli Priority Provenance for Independent Researchers*. Version 1.0.0, Zenodo, 2026, doi:10.5281/zenodo.18115235.
+
+**IEEE:**
+> K. M. Caprazli, "Caprazli Priority Provenance for Independent Researchers," version 1.0.0, 2026. [Online]. Available: https://doi.org/10.5281/zenodo.18115235
+
+**BibTeX:**
+```bibtex
+@software{caprazli_provenance_2026,
+  author       = {Caprazli, Kafkas M.},
+  title        = {Caprazli Priority Provenance for Independent Researchers},
+  year         = 2026,
+  version      = {1.0.0},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18115235},
+  url          = {https://doi.org/10.5281/zenodo.18115235}
+}
+```
+
+See [CITATION.cff](CITATION.cff) for machine-readable metadata (Zotero, GitHub, etc.).
 
 ## Author
 
