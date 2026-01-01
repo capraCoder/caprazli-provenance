@@ -1,4 +1,6 @@
-# Caprazli Priority Provenance for Independent Researchers
+# Caprazli Priority Provenance
+
+**A Dual-Layer Method for Independent Researchers**
 
 [![PyPI version](https://img.shields.io/pypi/v/caprazli-provenance.svg)](https://pypi.org/project/caprazli-provenance/)
 [![PyPI downloads](https://img.shields.io/pypi/dm/caprazli-provenance.svg)](https://pypi.org/project/caprazli-provenance/)
@@ -74,22 +76,22 @@ See [ARCHITECTURE.md](ARCHITECTURE.md) for the formal specification (T-003).
 ## Citation
 
 **APA 7th:**
-> Caprazli, K. M. (2026). *Caprazli Priority Provenance for Independent Researchers* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.18115235
+> Caprazli, K. M. (2026). *Caprazli Priority Provenance: A Dual-Layer Method for Independent Researchers* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.18115235
 
 **Chicago (Author-Date):**
-> Caprazli, Kafkas M. 2026. "Caprazli Priority Provenance for Independent Researchers." Software, version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.18115235.
+> Caprazli, Kafkas M. 2026. "Caprazli Priority Provenance: A Dual-Layer Method for Independent Researchers." Software, version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.18115235.
 
 **MLA 9th:**
-> Caprazli, Kafkas M. *Caprazli Priority Provenance for Independent Researchers*. Version 1.0.0, Zenodo, 2026, doi:10.5281/zenodo.18115235.
+> Caprazli, Kafkas M. *Caprazli Priority Provenance: A Dual-Layer Method for Independent Researchers*. Version 1.0.0, Zenodo, 2026, doi:10.5281/zenodo.18115235.
 
 **IEEE:**
-> K. M. Caprazli, "Caprazli Priority Provenance for Independent Researchers," version 1.0.0, 2026. [Online]. Available: https://doi.org/10.5281/zenodo.18115235
+> K. M. Caprazli, "Caprazli Priority Provenance: A Dual-Layer Method for Independent Researchers," version 1.0.0, 2026. [Online]. Available: https://doi.org/10.5281/zenodo.18115235
 
 **BibTeX:**
 ```bibtex
 @software{caprazli_provenance_2026,
   author       = {Caprazli, Kafkas M.},
-  title        = {Caprazli Priority Provenance for Independent Researchers},
+  title        = {Caprazli Priority Provenance: A Dual-Layer Method for Independent Researchers},
   year         = 2026,
   version      = {1.0.0},
   publisher    = {Zenodo},
